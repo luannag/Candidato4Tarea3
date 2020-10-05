@@ -1,0 +1,50 @@
+body{
+	background:  url( 'Bandera.png' ) repeat;
+}
+
+#contenedor{
+	width: 70%;
+	height: 235%;
+	background-color: white;
+	margin: 0px auto 0px auto;
+	padding: 5px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 1px;
+}
+
+video{
+width: 80%;
+height: auto;
+}
+
+img{
+width: 40%;
+}
+iframe{
+width: 80% ;
+height: 20%;
+border:0;
+}
+
+a {
+  color: black;
+}
+
+#temas{
+	width: 35%;
+	height: 1260px;
+	float: right;
+}
+
+#articulos{
+	width: 60%;
+	height: 1260px;
+	float: left;
+	padding-left: 20px;
+	margin: 0px auto 0px auto;
+}
+
+#pie{
+	width:100%;
+}
